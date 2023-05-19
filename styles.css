@@ -153,9 +153,11 @@ header nav ul li a{
 .overlay{
     background: rgb(255, 255, 255, 0.95);
     height: 100%;
-    width: 180px;
+    width: 190px;
     padding: 20px;
     border-radius: 10px 0 0 10px;
+    text-align: center;
+    box-sizing: border-box;
 }
 article h4{
     border-bottom: 1px solid #ddd;
@@ -166,6 +168,7 @@ article h4{
 }
 #possibilities p{
     text-align: center;
+    margin-bottom: 20px;
 }
 .button-2{
     color: white;
