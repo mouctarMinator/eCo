@@ -20,7 +20,7 @@ et l'exécution du site web.
 1. Clonez le référentiel dans le répertoire de votre serveur web :
 
 ```shell
-git clone https://github.com/mouctarbarry/eCo.git
+git clone https://github.com/mouctarbarry/Travel-Agency.git
 ```
 ## Licence
 Ce projet est open source.
